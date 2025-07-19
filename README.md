@@ -37,4 +37,4 @@ A humorous meme representing the common struggles of crypto investors watching t
 ![Blockchain Infographic](images(memes)/blockchain-infographic.png)
 
 ### 📌 Meme
-![Crypto Meme](images/crypto-wallet-meme.png)
+![Crypto Meme](images(memes)/crypto-wallet-meme.png)
